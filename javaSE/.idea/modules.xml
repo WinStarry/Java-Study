@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java基础语法/Java基础语法.iml" filepath="$PROJECT_DIR$/Java基础语法/Java基础语法.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaSE.iml" filepath="$PROJECT_DIR$/javaSE.iml" />
     </modules>
   </component>
