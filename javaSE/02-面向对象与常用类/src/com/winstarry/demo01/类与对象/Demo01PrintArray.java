@@ -10,7 +10,7 @@ public class Demo01PrintArray {
     public static void main(String[] args) {
         int[] array = {10, 20, 30, 40, 50};
         //打印格式为：[10, 20, 30, 40, 50]
-        //使用面向过程，每一个步骤都要亲历亲为
+        //使用面向过程的方式，每一个步骤都要亲历亲为
         System.out.print("[");
 
         for (int i = 0; i < array.length; i++) {
