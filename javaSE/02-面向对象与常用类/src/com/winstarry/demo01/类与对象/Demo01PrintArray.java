@@ -21,7 +21,8 @@ public class Demo01PrintArray {
             }
         }
 
-        System.out.println("===========================");
+        System.out.println();
+        System.out.println("======================");
         //使用面向对象的方式
         //找一个JDK给我们提供好的Arrays类
         //其中有一个toString()方法，直接就能把数组变成想要格式的字符串。
