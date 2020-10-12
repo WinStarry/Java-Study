@@ -20,6 +20,9 @@ public class switchDemo01 {
             case 4:
                 System.out.println("第四种情况是成立的！");
                 break;
+            case 5:
+                System.out.println("第五种情况是成立的！");
+                break;
             default:
                 System.out.println("没有匹配到正确的结果！");
         }
