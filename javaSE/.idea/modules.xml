@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/01-java基础语法/01-java基础语法.iml" filepath="$PROJECT_DIR$/01-java基础语法/01-java基础语法.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-面向对象与常用类/02-面向对象与常用类.iml" filepath="$PROJECT_DIR$/02-面向对象与常用类/02-面向对象与常用类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Java进阶/03-Java进阶.iml" filepath="$PROJECT_DIR$/03-Java进阶/03-Java进阶.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Java进阶/day01-Object类&amp;常用API/day01-Object类&amp;常用API.iml" filepath="$PROJECT_DIR$/03-Java进阶/day01-Object类&amp;常用API/day01-Object类&amp;常用API.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaSE.iml" filepath="$PROJECT_DIR$/javaSE.iml" />
     </modules>
   </component>
