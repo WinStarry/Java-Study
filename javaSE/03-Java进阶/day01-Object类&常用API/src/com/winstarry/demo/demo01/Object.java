@@ -37,7 +37,7 @@ public class Object {
         list.add(1);
         list.add(2);
         list.add(3);
-        System.out.println(list);//[1, 2, 3]  重写toString方法
+        System.out.println(list);//[1, 2, 3]   重写toString方法
 
     }
 }
