@@ -26,7 +26,7 @@ public class Object {
         //直接打印对象的名字,其实就是调用对象的toString  p=p.toString();
         System.out.println(p);//com.winstarry.demo.demo01.Person@1c53fd30
 
-        //看一个类是否重写了toString,直接打印这个类的对象即可,如果没有重写toString方法那么打印的是对象的地址值
+        //看一个类是否重写了toString(),直接打印这个类的对象即可,如果没有重写toString方法那么打印的是对象的地址值
         Random r = new Random();
         System.out.println(r);//java.util.Random@13b6d03
 
