@@ -19,7 +19,7 @@ public class Object {
         Person类默认继承了Object类,所以可以使用Object类中的toString()方法。
         String toString() 返回该对象的字符串表示。
 */
-        Person p = new Person("zahngsan",18);
+        Person p = new Person("zhangsan",18);
         String s = p.toString();
         System.out.println(s);//com.winstarry.demo.demo01.Person@282ba1e
 
