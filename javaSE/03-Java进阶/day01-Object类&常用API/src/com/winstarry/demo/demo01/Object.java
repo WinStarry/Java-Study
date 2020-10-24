@@ -40,6 +40,7 @@ public class Object {
         list.add(5);
         list.add(7);
         list.add(9);
+        list.add(11);
         System.out.println(list);//[1, 2, 3]   重写了toString()方法
 
     }
