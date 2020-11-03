@@ -38,7 +38,6 @@ public class Object {
         list.add(2);
         list.add(3);
         list.add(5);
-        list.add(7);
         System.out.println(list);//[1, 2, 3]   重写了toString()方法
 
     }
